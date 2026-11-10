@@ -1,4 +1,4 @@
-# gingerguide-app
+# Gingerguide
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gingerguide-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gingerguide.app/
+Gingerguide is an AI travel guide app for exploring 275 European cities on foot, offering self‑guided audio tours with over 4,500 narrated sights. Users can ask an AI guide questions in six languages, enjoy full offline mode, and receive personalized recommendations. The platform combines rich multimedia content with real‑time AI assistance to enhance European travel experiences.
+
+**Areas:** Travel · AI · AudioTours · Europe · MobileApp
+
+## Gingerguide on APIs.io
+
+Everything profiled for Gingerguide is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gingerguide-app/](https://apis.io/providers/gingerguide-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Gingerguide City Catalog API](https://apis.io/apis/gingerguide-app/gingerguide-city-catalog-api/) — Read‑only catalog of Gingerguide audio walking tours.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Gingerguide Agentic Access](https://apis.io/agentic-access/gingerguide-app/gingerguide-app-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gingerguide API Rules](https://apis.io/rules/gingerguide-app/gingerguide-app-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gingerguide Domain Security](https://apis.io/security/gingerguide-app/gingerguide-app-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gingerguide.app/)
+- [Documentation](https://gingerguide.app/en/)
+- [API reference](https://gingerguide.app/developers/)
+- [Support](https://gingerguide.app/en/support/)
+- [Changelog](https://gingerguide.app/en/whats-new/)
+- [Terms of service](https://gingerguide.app/en/terms/)
+- [Privacy policy](https://gingerguide.app/en/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 28.3** — thin · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 12.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gingerguide-app/](https://apis.io/providers/gingerguide-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gingerguide: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gingerguide-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
